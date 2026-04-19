@@ -1,3 +1,5 @@
+.env
+
 # vendor folder is used for local backups just in case.
 # no need to flood the remote repo.
 vendor/
